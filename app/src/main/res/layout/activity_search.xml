@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+ >
+
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="搜尋餐聽?"
+            android:textColor="#FFAD33"
+            android:textSize="40dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="海之蚵"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+
+        <ImageButton
+            android:id="@+id/imageButtonsearch"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="1dp"
+            android:background="#00000000"
+            android:scaleType="centerInside"
+            android:src="@drawable/img_7"
+            />
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="十勝嵐"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch1"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="2sp"
+            android:scaleType="centerInside"
+            android:src="@drawable/img_8"
+            android:background="#00000000"
+            />
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="喵匠義式麵坊-靜宜店"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch2"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="2sp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest101"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="陳食空間"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch3"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest102"
+            android:background="#00000000"    />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="府壽司"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch4"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest1030"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="鍋小三"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch5"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest1040"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="緣 越式美食"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch6"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest1050"
+            android:background="#00000000"
+
+            />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="韓味煮藝"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch7"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest106"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView111"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="櫃森森主題餐廳"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch8"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest108"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="移花宮 鍋物"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch9"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest107"
+            android:background="#00000000"
+
+            />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="初曉 日式豬排定食丼飯"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch10"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest109"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="炭火燒肉工房 沙鹿店"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch11"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest110"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="那兩蚵烤鮮蚵"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch12"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest111"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="沐鍋物"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch13"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest112"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="十勝嵐"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch14"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest113"
+            android:background="#00000000"
+
+            />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="福井日式食堂"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch15"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest114"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="糧薪客棧"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch16"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest115"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="楊記牛肉麵"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch17"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest116"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="傑理歐法小館"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch18"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest117"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="無名控肉飯"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch19"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest118"
+            android:background="#00000000"
+
+            />
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="須盡歡"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch20"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest119"
+            android:background="#00000000"
+
+            />
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="370dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="壹參壹肆私廚料理"
+            android:textColor="#2196F3"
+            android:textSize="20dp" />
+        <ImageButton
+            android:id="@+id/imageButtonsearch21"
+            android:layout_width="275dp"
+            android:layout_height="203dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/rest120"
+            android:background="#00000000"
+
+            />
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>
+

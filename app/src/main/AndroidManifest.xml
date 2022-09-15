@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.text">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Text">
+        <activity
+            android:name=".MainActivitysearch2mean"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch24"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch23"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch21"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch20"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch19"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch18"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch17"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch16"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch15"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch14"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch13"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch222"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch12"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch11"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch10"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch9"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch8"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch7"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch6"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch41"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch22"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity21"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch5"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch3"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitysearch2"
+            android:exported="false" />
+        <activity
+            android:name=".newmember"
+            android:exported="false" />
+        <activity
+            android:name=".search"
+            android:exported="false" />
+        <activity
+            android:name=".random"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
